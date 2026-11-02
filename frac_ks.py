@@ -29,4 +29,4 @@ def frac_ks(val, wt, C, remC):
             break
     return cur_prof
 
-print(frac_ks(val, wt, C, C))
+print("Profit : ", frac_ks(val, wt, C, C))
